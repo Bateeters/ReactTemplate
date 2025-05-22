@@ -5,6 +5,15 @@
   text-align: center;
 }
 
+#customDiv {
+  padding: 10px 30px;
+  margin-bottom: 50px;
+  background: whitesmoke;
+  border-radius: 30px;
+  border: 5px solid rgb(67, 191, 204);
+  color: #333;
+}
+
 .logo {
   height: 6em;
   padding: 1.5em;

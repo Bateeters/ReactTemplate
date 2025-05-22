@@ -8,6 +8,10 @@ function App() {
 
   return (
     <>
+      <div id="customDiv">
+        <h1>Hello, World!</h1>
+        <h5>This is a custom spot from Brian...</h5>
+      </div>
       <div>
         <a href="https://vite.dev" target="_blank">
           <img src={viteLogo} className="logo" alt="Vite logo" />
